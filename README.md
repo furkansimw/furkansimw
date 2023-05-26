@@ -27,8 +27,9 @@ I am Full Stack Stack developer.
 &nbsp;
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="36" height="36" alt="postgresql" /></a> 
 &nbsp; 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="36" height="36" alt="postgresql" /></a> 
+&nbsp; 
    <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://socket.io/images/logo-dark.svg" width="36" height="36" alt="Socket" /></a> 
-  
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
