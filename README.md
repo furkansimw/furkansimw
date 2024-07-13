@@ -31,7 +31,7 @@ I am Full Stack Stack developer.
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="36" height="36" alt="postgresql" /></a> 
 &nbsp; 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="36" height="36" alt="postgresql" /></a> 
-&nbsp; <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/v2c10fec5dec8e88524872f90bc9df3c3ce398afab445f39d54a016b2c011b9b9/firebase/images/favicon.png" width="36" height="36" alt="postgresql" /></a> 
+&nbsp; <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/v158caafe57d4670a8abac19430cb93c14f6b6846e8f3012a57383593e392bfd9/firebase/images/favicon.png" width="36" height="36" alt="postgresql" /></a> 
 &nbsp; 
    <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://socket.io/images/logo-dark.svg" width="36" height="36" alt="Socket" /></a> 
 ### Socials
